@@ -2,7 +2,6 @@
 """
 A script that use reddit api to outputs the
 number of subscribers of a certain subreddit.
---
 """
 
 
